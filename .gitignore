@@ -42,4 +42,5 @@ nb-configuration.xml
 
 # other
 Dockerfile
-post-quarkus-service.tar
+Containerfile
+post-service.tar
